@@ -1,3 +1,3 @@
-# image-wave
+# image-waver
 
-![demo gif](bb.gif)r
+![demo gif](bb.gif)
